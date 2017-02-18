@@ -1,0 +1,37 @@
+1487444699676	geckodriver	INFO	Listening on 127.0.0.1:38275
+1487444700764	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PUKx153BLxTe
+1487444700765	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487444700767	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35241
+1487444701295	Marionette	INFO	Listening on port 35241
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/jquery-1.10.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+
+(/usr/lib/firefox/plugin-container:7128): Gtk-WARNING **: Error loading image 'file:///usr/share/themes/Yuyo-Dark/gtk-3.0/assets/resize-grip.svg': Error opening file: No such file or directory
+
+(firefox:7071): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7071): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7071): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7071): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7071): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+JavaScript warning: http://v01pe.github.io/Text2Braille3d/lightgl.js, line 1059: Error: WebGL: vertexAttribPointer: invalid element size
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
