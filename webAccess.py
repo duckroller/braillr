@@ -1,8 +1,14 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 import requests, sys, webbrowser, bs4, time
 
-driver = webdriver.Firefox()
+#content_type = requests.head('http://v01pe.github.io/6e7f89b1-94ad-403e-815d-f3b93fd0ec8b').headers['content-type']
+#print(content_type)
+
+profile = FirefoxProfile()
+profile.set_preference("browser.helperApps.neverAsk.saveToDisk", 'application/sla')
+driver = webdriver.Firefox()#firefox_profile=profile)
 driver.get('http://v01pe.github.io/Text2Braille3d/')
 
 text_form = driver.find_element_by_css_selector('.parameterstable > tr:nth-child(1) > td:nth-child(2) > textarea:nth-child(1)')
