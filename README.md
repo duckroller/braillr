@@ -1,3 +1,3 @@
-# newsfeel
+# braillr
 
-a doohickey 
+Generate 3D-printing-ready Braille models from real world texts.
