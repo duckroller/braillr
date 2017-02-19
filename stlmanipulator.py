@@ -11,3 +11,6 @@ def rotate(filename):
     main_body.rotate([0.5, 0.0, 0.0], math.radians(90))
 
     main_body.save('rotated_' + filename)
+
+if __name__ == '__main__':
+    rotate('tea_stuff.stl')
